@@ -7,10 +7,10 @@
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.x     | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 1.0.x     | :x: |
+| 1.1.x   | :x:                |
+| 2.0.x   | :x: |
+| < 3.0   | :x:                |
 
 --
 
